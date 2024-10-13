@@ -1,5 +1,5 @@
 
 @import url(components/button.css);
 @import url(layout/reset.css);
-@import url(/src/assets/css/layout/card.css);
-@import url(/src/assets/css/layout/style-guide.css);
+@import url(layout/card.css);
+@import url(layout/style-guide.css);
