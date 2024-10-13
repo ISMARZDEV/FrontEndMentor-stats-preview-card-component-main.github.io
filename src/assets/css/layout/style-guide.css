@@ -1,0 +1,44 @@
+
+/*
+- Family: [Inter](https://fonts.google.com/specimen/Inter)
+- Weights: 400, 700
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+/*
+- Family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
+- Weights: 400
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+
+
+:root {
+
+    /* ## Colors */
+
+    /* ### Primary */
+
+    --Very-dark-blue-main-background: hsl(233, 47%, 7%);
+    --Dark-desaturated-blue-card-background: hsl(244, 38%, 16%);
+    --Soft-violet-accent-: hsl(277, 64%, 61%);
+
+    /* ### Neutral */
+
+    --White-main-heading-stats: hsl(0, 0%, 100%);
+    --Slightly-transparent-white-main-paragraph: hsla(0, 0%, 100%, 0.75);
+    --Slightly-transparent-white-stat-headings: hsla(0, 0%, 100%, 0.6);
+
+    /* Font-Weights */
+    
+    --FW-Inter-400: 400; 
+    --FW-Inter-700: 700;
+
+    --FW-Lexend-400: 400;
+
+    /* Font-Family */
+
+    --FF-Lexend-Deca: "Lexend Deca", serif;
+    --FF-Inter: "Inter", sans-serif;
+}
